@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Merry Measure
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
 
-You can use the [editor on GitHub](https://github.com/Boheme130/MerryMeasure/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![avatar](https://images.ladepeche.fr/api/v1/images/view/5c2e2d873e45461aad33e633/large/image.jpg)
+<br>
+<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+作品：Merry Measure <br>
+作者：Lily Morton <br>
+评分：4.4/5 <br>
 
-### Markdown
+关键词：游记；英国人在荷兰；中短篇；暗恋成真；库博；史蒂芬你逊爆了
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Arlo从小就暗恋哥哥的好友库博，但是库博高大帅气，一头棕发，让人不禁想起Bradley Cooper，他身边的男友每一个都像模特一样，(Arlo觉得库博)又怎么会看得上成天嘻嘻哈哈的他呢？Arlo每天都在想着怎么插足库博，圣诞将至，Arlo的哥哥Tom策划向爱人求婚，把全家人和一堆好友一起接到了阿姆斯特丹度假。Arlo怎么会放过这个和库博相处的机会，欢天喜地答应了。入住酒店时果然发生了经典桥段，Arlo的房间被错误退房，圣诞旺季没有多余房间，Arlo主动请缨把自己的双人房分给库博。
 
-```markdown
-Syntax highlighted code block
+在风光旖旎的荷兰，Tom不断策划向男友求婚，但却总是被各种意外打断。Arlo和库博两人尽情享受荷兰的风土人情，两人一起去了各种艺术展馆参观，不懂艺术却又为了让库博开心的Arlo闹出了不少笑话。Arlo暗恋库博，却又觉得对方只是把自己当做弟弟不敢更近一步。然而一晚两人喝醉了，Arlo直接对库博展开攻势，最终以两人blowjob收场，醒来交谈后两人才知道原来是双向暗恋，Arlo惊喜不已。
 
-# Header 1
-## Header 2
-### Header 3
+名叫库博的人或许有一种魔力，身边都有一个叫史蒂芬(妮)的人会带来不幸，库博的前男友史蒂芬对他余情未了，尾随库博来到了荷兰。Arlo对史蒂芬意见颇多，觉得史蒂芬婊里婊气，还喜欢pua库博。去年圣诞节Arlo在酒醉之下对着库博说”史蒂芬你逊爆了！”
 
-- Bulleted
-- List
+史蒂芬空降酒店想要抢回库博，Arlo大惊失色，甚至一度觉得自己姿色不如史蒂芬，库博要抛弃自己。但库博始终不为所动，史蒂芬气急败坏，转头开始攻击Arlo，最终惹怒库博被一把子打回布达拉宫。之后就是两人甜蜜的各种相处时光了，一起参观梵高画展，一起坐船在船上开车，第一次上床(top/bottom我猜错了)，因为这是中短篇两人的感情也没有太多波折，最终Arlo的哥哥也在全书最大的闹剧里成功求婚。
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/MerryMeasure/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+书里最好看的应该是荷兰游记部分的描写，之前另一篇扫文说Lily Morton书里的游记都很中产，这个描述很恰当了，看她笔下的欧洲行很轻盈很放松身心。同样是旅行，美国的格力高写出来就让我觉得很实。普利策作品Less里加州人主角游历了纽约，墨西哥，然后又到了意大利，德国，法国，他的欧洲之行营造的氛围感明显比北美要强。擅长写北美景色的Charlie Adhara，她笔下的佛罗里达，马里兰，加拿大，南卡虽然都很有特色，但就是没有欧洲那么精致，可能就因为欧洲的人文气息真的比美国强，写成游记新鲜感更多。
