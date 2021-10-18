@@ -2,7 +2,7 @@
 [回到主页](https://boheme130.github.io/Fiction.git.io/)
 
 ![avatar](https://www.statesidestills.com/prodimages/cooper_bradley_alias_2300l.jpg)
-(https://images.ladepeche.fr/api/v1/images/view/5c2e2d873e45461aad33e633/large/image.jpg)
+<p hiden>(https://images.ladepeche.fr/api/v1/images/view/5c2e2d873e45461aad33e633/large/image.jpg)
 <br>
 <br>
 
