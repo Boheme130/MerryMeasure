@@ -1,5 +1,6 @@
 ## Merry Measure
-[回到主页](https://boheme130.github.io/Fiction.git.io/)
+[回到主页](https://boheme130.github.io/Fiction.git.io/) <br>
+[回到上一页](https://boheme130.github.io/LilyMorton.git.io/)
 
 ![avatar](https://www.statesidestills.com/prodimages/cooper_bradley_alias_2300l.jpg)
 <br>
